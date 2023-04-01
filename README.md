@@ -47,16 +47,17 @@ You have a set of $N > 2$ points ($x_i, y_i)$, with no  Gaussian uncertainties i
 <br><br>
 
 Constructing the matrices to solve the matrix equation, $Y = XB$:
+
 $$
 \begin{equation}
 Y =
 \begin{bmatrix}
-    y_5 \\ y_6 \\ ... \\ y_{20} \\
+    y_5 \\ y_6 \\ ... \\ y_{20}
 \end{bmatrix}
 \\ ,
 X =
 \begin{bmatrix}
-    1 & x_5 \\ 1 & x_6 \\ ...& ... \\ 1 & x_{20} \\
+    1 & x_5 \\ 1 & x_6 \\ ...& ... \\ 1 & x_{20}
 \end{bmatrix}
 \end{equation}
 $$
@@ -107,7 +108,7 @@ C =
     \sigma^2_{y1} & 0 & ... & 0 \\
     0 & \sigma^2_{y2} & ... & 0 \\
     ...& ... & ... & ... \\ 
-    0 & 0 & ... & \sigma^2_{yN} \\
+    0 & 0 & ... & \sigma^2_{yN}
 \end{bmatrix}
 \end{equation}
 $$
