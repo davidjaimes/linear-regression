@@ -121,15 +121,6 @@ $$
 
 $$
 \begin{equation}
-B =
-\begin{bmatrix}
-    b \\ m
-\end{bmatrix}
-\end{equation}
-$$
-
-$$
-\begin{equation}
 B = (X^T C^{-1} X)^{-1} (X^T C^{-1} Y)
 \end{equation}
 $$
