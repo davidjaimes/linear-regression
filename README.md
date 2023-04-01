@@ -99,6 +99,7 @@ $$
 where $m$ is the slope and $b$ is the intercept, that best fits the points. This exercise is adapted from `Data analysis recipes: Fitting a model to data` by David W. Hogg and Jo Bovy and Dustin Lang, 2010, 1008.4686, arXiv, astro-ph.IM, [https://arxiv.org/abs/1008.4686](https://arxiv.org/abs/1008.4686).
 
 Using the covariance matrix, $C$, prepare the matrices to solve the matrix equation, $Y = XB$:
+
 $$
 \begin{equation}
 C =
