@@ -52,12 +52,12 @@ $$
 \begin{equation}
 Y =
 \begin{bmatrix}
-    y_5
-    y_6
-    ...
-    y_{20}
+    y_5 \\
+    y_6 \\
+    ... \\
+    y_{20} \\
 \end{bmatrix}
-\horizontalspace,
+\ \ \ \,
 X =
 \begin{bmatrix}
     1 & x_5 \\
