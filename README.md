@@ -60,7 +60,10 @@ Y =
 \\ ,
 X =
 \begin{bmatrix}
-    1 & x_5 \\ 1 & x_6 \\ ...& ... \\ 1 & x_{20}
+    1 & x_5 \\
+    1 & x_6 \\
+    ...& ... \\
+    1 & x_{20}
 \end{bmatrix}
 \end{equation}
 $$
