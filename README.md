@@ -57,7 +57,7 @@ Y =
     ... \\
     y_{20} \\
 \end{bmatrix}
-\ \ \ \,
+,\ \ \ \
 X =
 \begin{bmatrix}
     1 & x_5 \\
